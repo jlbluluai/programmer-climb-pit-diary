@@ -1,2 +1,7 @@
-# programmer-climb-pit-diary
+## programmer-climb-pit-diary
 日常开发过程中遇到的坑的记录日记
+
+
+### java
+
+[@Scheduled引起的一次坑]()
